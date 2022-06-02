@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.test1.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.test1.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/action_nav_gallery_to_lesson_1_Fragment"
+            app:destination="@id/lesson_1_Fragment" />
+        <action
+            android:id="@+id/action_nav_gallery_to_lesson_2_Fragment"
+            app:destination="@id/lesson_2_Fragment" />
+        <action
+            android:id="@+id/action_nav_gallery_to_lesson_3_Fragment"
+            app:destination="@id/lesson_3_Fragment" />
+        <action
+            android:id="@+id/action_nav_gallery_to_lesson_4_Fragment"
+            app:destination="@id/lesson_4_Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_library"
+        android:name="com.example.test1.ui.library.LibraryFragment"
+        android:label="@string/menu_library"
+        tools:layout="@layout/fragment_library" />
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.test1.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow">
+        <action
+            android:id="@+id/action_nav_slideshow_to_gamesFragment"
+            app:destination="@id/gamesFragment" />
+        <action
+            android:id="@+id/action_nav_slideshow_to_kvestFragment"
+            app:destination="@id/kvestFragment" />
+        <action
+            android:id="@+id/action_nav_slideshow_to_gamesListBtnFragment"
+            app:destination="@id/gamesListBtnFragment" />
+        <action
+            android:id="@+id/action_nav_slideshow_to_gameListFragment"
+            app:destination="@id/gameListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gamesFragment"
+        android:name="com.example.test1.handbook.GamesFragment"
+        tools:layout="@layout/fragment_games" />
+    <fragment
+        android:id="@+id/kvestFragment"
+        android:name="com.example.test1.handbook.KvestFragment"
+        android:label="fragment_kvest"
+        tools:layout="@layout/fragment_kvest" />
+    <fragment
+        android:id="@+id/masterClassesListFragment"
+        android:name="com.example.test1.handbook.MasterClassesListFragment"
+        android:label="fragment_master_classes_list_list"
+        tools:layout="@layout/fragment_master_classes_list_list" />
+    <fragment
+        android:id="@+id/gamesListBtnFragment"
+        android:name="com.example.test1.handbook.GamesListBtnFragment"
+        android:label="GamesListBtnFragment" >
+        <action
+            android:id="@+id/action_gamesListBtnFragment_to_iceBreakersFragment"
+            app:destination="@id/iceBreakersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/game2Fragment"
+        android:name="com.example.test1.handbook.Game2Fragment" />
+    <fragment
+        android:id="@+id/iceBreakersFragment"
+        android:name="com.example.test1.handbook.IceBreakersFragment">
+        <action
+            android:id="@+id/action_iceBreakersFragment_to_gamesFragment"
+            app:destination="@id/gamesFragment" />
+        <action
+            android:id="@+id/action_iceBreakersFragment_to_game2Fragment"
+            app:destination="@id/game2Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/lesson_1_Fragment"
+        android:name="com.example.test1.school.lesson_1_Fragment"
+        android:label="Урок 1"
+        tools:layout="@layout/fragment_lesson_1_" />
+    <fragment
+        android:id="@+id/gameListFragment"
+        android:name="com.example.test1.GameListFragment"
+        android:label="fragment_game_list"
+        tools:layout="@layout/fragment_game_list" />
+    <fragment
+        android:id="@+id/lesson_2_Fragment"
+        android:name="com.example.test1.school.lesson_2_Fragment"
+        android:label="Урок 2" />
+    <fragment
+        android:id="@+id/lesson_3_Fragment"
+        android:name="com.example.test1.school.lesson_3_Fragment"
+        android:label="Урок 3" />
+    <fragment
+        android:id="@+id/lesson_4_Fragment"
+        android:name="com.example.test1.school.lesson_4_Fragment"
+        android:label="Урок 4" />
+    <fragment
+        android:id="@+id/nav_added"
+        android:name="com.example.test1.ui.added.AddedFragment"
+        android:label="@string/menu_added"
+        tools:layout="@layout/fragment_added" >
+        <action
+            android:id="@+id/action_nav_added_to_newNoteFragment"
+            app:destination="@id/newNoteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newNoteFragment"
+        android:name="com.example.test1.ui.added.NewNoteFragment"
+        android:label="NewNoteFragment" />
+</navigation>

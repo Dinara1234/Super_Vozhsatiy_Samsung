@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APP/Test1_1_06_22/app/src/main/res/layout/fragment_added.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_1_06_22/app/src/main/res/layout/fragment_new_note.xml" value="0.1983695652173913" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_game2.xml" value="0.1716485507246377" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_games.xml" value="0.2" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_games_list.xml" value="0.2" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_games_list_btn.xml" value="0.1716485507246377" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_ice_breakers.xml" value="0.11302083333333333" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_kvest.xml" value="0.16799999999999998" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_library.xml" value="0.1716485507246377" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_master_classes_list.xml" value="0.11302083333333333" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_master_classes_list_list.xml" value="0.264" />
+        <entry key="..\:/APP/Test1_2_0/app/src/main/res/layout/fragment_slideshow.xml" value="0.1716485507246377" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/app_bar_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/content_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_game2.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_game_list.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_games.xml" value="0.36666666666666664" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_games_list.xml" value="0.358695652173913" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_games_list_btn.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_item.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_item_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_lesson_1_.xml" value="0.264" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_lesson_2_.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_lesson_3_.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_lesson_4_.xml" value="0.176" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_library.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/fragment_slideshow.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/list_item.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/layout/nav_header_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/APP/Test1_3_0/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/drawable-anydpi/ic_school.xml" value="0.124" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.124" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/content_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/fragment_game_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/fragment_kvest.xml" value="0.17028985507246377" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/fragment_slideshow.xml" value="0.18802083333333333" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/layout/nav_header_main.xml" value="0.152" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/APP/Test1_new/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/app_bar_main.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/content_main.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_added.xml" value="0.1983695652173913" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_gallery.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_game_list.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_lesson_1_.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_library.xml" value="0.1983695652173913" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/fragment_slideshow.xml" value="0.18802083333333333" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/list_item.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/nav_header_main.xml" value="0.1671875" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/layout/recyclerview_item.xml" value="0.34646739130434784" />
+        <entry key="..\:/APP/Test24_05_22/app/src/main/res/menu/activity_main_drawer.xml" value="0.1671875" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable-v24/main_ic_2.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/ic_menu_camera.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/ic_menu_fav.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/ic_menu_handbook.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/drawable/side_nav_bar.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/activity_game_list.xml" value="0.12360688956433637" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/app_bar_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/content_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/fragment_gallery.xml" value="0.11302083333333333" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/fragment_game_list.xml" value="0.12" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/fragment_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/fragment_library.xml" value="0.11302083333333333" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/menu/main.xml" value="0.25025641025641027" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.134" />
+        <entry key="..\:/ITSAMSUNG/Test30_05_22_2/app/src/main/res/layout/fragment_added.xml" value="0.1" />
+        <entry key="..\:/ITSAMSUNG/Test30_05_22_2/app/src/main/res/layout/fragment_new_note.xml" value="0.1983695652173913" />
+        <entry key="..\:/ITSAMSUNG/Test30__05_22/app/src/main/res/layout/fragment_new_note.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
